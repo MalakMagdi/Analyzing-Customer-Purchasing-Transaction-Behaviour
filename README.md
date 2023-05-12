@@ -1,4 +1,4 @@
-# Customer-Purchasing-Transaction-Analysis
+# Sales-and-Performance-Analysis-Using-Tableau
 
 
 This project showcases a collection of interactive dashboards created using Tableau, focusing on analyzing sales and performance data from the Super Store dataset.
